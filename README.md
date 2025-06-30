@@ -84,4 +84,25 @@ Lost: 3.6% → Potential for win-back campaigns.
 
 Peak Sales: November and December → Seasonal sales spikes.
 
+## 🚀 Recommendations
+- Reward Champions with VIP perks.
 
+- Upsell to Loyal Customers to convert them into Champions.
+
+- Deploy win-back and retention campaigns for At Risk and Lost customers.
+
+- Prepare marketing campaigns and stock for peak sales months (Nov-Dec).
+
+
+## 🙌 About Me
+I'm Peris Ndanu, a passionate Data Analyst who loves transforming raw data into meaningful business insights.
+
+→ 📫 Connect with me on [([LinkedIn](https://www.linkedin.com/in/peris-ndanu/))] 
+
+→ 💼 Open to Data Analyst and BI Analyst opportunities!
+
+⭐ If You Find This Useful:
+→ ⭐ Star the repo | 🍴 Fork it | 🤝 Share feedback
+
+🔗 License:
+This project uses public data from Kaggle and is for educational purposes only.
