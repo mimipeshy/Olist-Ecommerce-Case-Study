@@ -59,3 +59,29 @@ Monthly revenue growth trends.
 
 #### 🛍️ Top Products by Customer Segment:
 Determined best-selling products for Champions, Loyal, and At Risk customers.
+
+## 📊 Dashboard Features (Power BI)
+- RFM Segment Breakdown
+
+- Revenue Trends Over Time
+
+- Top Customer Segments
+
+- Top Products per Segment
+
+- KPI Cards (Total Revenue, Orders, Customers)
+
+## 🏆 Key Insights
+Champions: 29.7% → Driving the most revenue.
+
+Loyal Customers: 27.3% → Huge potential for upselling.
+
+At Risk: 13.5% → Require targeted retention strategies.
+
+Big Spenders: Only 0.34% → Critical VIP customers.
+
+Lost: 3.6% → Potential for win-back campaigns.
+
+Peak Sales: November and December → Seasonal sales spikes.
+
+
