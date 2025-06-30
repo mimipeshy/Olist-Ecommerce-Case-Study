@@ -7,3 +7,14 @@ This project analyzes customer purchasing behavior using the UK Online Retail Da
 
 - Power BI
 - Excel (Power Query, Pivot Tables)
+
+✅ Dataset:
+
+UK Online Retail II Dataset (https://lnkd.in/eH92RFPs)
+
+## 🎯 Business Objectives
+- Segment customers based on purchasing behavior.
+- Identify Champions, Loyal, At Risk, and Lost Customers.
+- Understand revenue distribution across customer segments.
+- Discover peak sales periods and trends.
+- Recommend data-driven strategies to increase retention and revenue.
