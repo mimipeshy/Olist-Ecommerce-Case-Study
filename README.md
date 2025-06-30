@@ -18,3 +18,25 @@ UK Online Retail II Dataset (https://lnkd.in/eH92RFPs)
 - Understand revenue distribution across customer segments.
 - Discover peak sales periods and trends.
 - Recommend data-driven strategies to increase retention and revenue.
+
+## 🗺️ Dataset Overview
+| Column  | Description|
+| ------------- | ------------- |
+| InvoiceNo	    |Unique transaction ID|
+| StockCode	    |Product ID|
+| Description	|Product name|
+| Quantity	    |Units purchased| 
+| InvoiceDate	|Date of transaction |
+| UnitPrice	    |Price per unit|
+| CustomerID	|Unique customer ID|
+| Country	    |Customer country|
+
+## 🔥 Key Analysis Performed
+🔧 Data Cleaning:
+Removed canceled transactions (InvoiceNo starting with 'C').
+
+Removed missing Customer IDs.
+
+Created TotalPrice = UnitPrice × Quantity.
+
+Extracted invoice month for trend analysis.
