@@ -12,6 +12,12 @@ This project analyzes customer purchasing behavior using the UK Online Retail Da
 
 UK Online Retail II Dataset (https://lnkd.in/eH92RFPs)
 
+✅ Powerbi Link:
+
+Go to **PowerBI folder** and download the .pbix file
+
+To view this file, download it and open with the free desktop version of Power BI
+
 ## 🎯 Business Objectives
 - Segment customers based on purchasing behavior.
 - Identify Champions, Loyal, At Risk, and Lost Customers.
@@ -61,15 +67,21 @@ Monthly revenue growth trends.
 Determined best-selling products for Champions, Loyal, and At Risk customers.
 
 ## 📊 Dashboard Features (Power BI)
+- Dashboard Overview
+![dashboard overview](Images/dashbaord.PNG)
+
 - RFM Segment Breakdown
+![rfm segmentation](Images/Customer_segmentation.PNG)
+
 
 - Revenue Trends Over Time
-
-- Top Customer Segments
+![revenue trends](Images/revenue_by_month.PNG)
 
 - Top Products per Segment
+![top products](Images/top_products.PNG)
 
 - KPI Cards (Total Revenue, Orders, Customers)
+![kpi cards](Images/KPI%20cards.PNG)
 
 ## 🏆 Key Insights
 Champions: 29.7% → Driving the most revenue.
